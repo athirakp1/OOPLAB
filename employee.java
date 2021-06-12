@@ -37,7 +37,8 @@ public class employee {
 
 }
 
-//output
+/*
+output
 enter the Limit
 2
 Enter the details of the employee:
@@ -51,3 +52,4 @@ manu
 Enter the eno:
 1
 Employee found
+*/
