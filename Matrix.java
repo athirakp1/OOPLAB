@@ -60,3 +60,26 @@ M3.display();
 	
 }
 }
+
+/* 
+OUTPUT
+Enter rows and columns of first matrix
+3
+3
+Enter the elements
+1 3 5
+7 9 2
+4 8 6
+Enter rows and columns of second matrix
+3
+3
+Enter the elements
+1 2 3
+4 5 6
+7 8 9
+Sum of first and second matrix is
+2   5  8
+11 14  8
+11 16 15 
+*/
+ 
