@@ -29,7 +29,7 @@ public class search {
 
 }
 
-//output
+/* output
 Enter limit:
 3
 Enter 3 data:
@@ -39,4 +39,4 @@ Enter 3 data:
 Enter element to search:
 7
 7 Element found at 3 position
-
+*/
