@@ -30,7 +30,8 @@ System.out.println(p[2].price+" is smallest price");
 }	
 }	
 		
-//output
+/* 
+output
 Enter the product details:
 123
 30000
@@ -44,3 +45,4 @@ Enter the product details:
 200000
 laptop
 30000 is smallest price
+*/
